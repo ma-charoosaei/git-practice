@@ -6,3 +6,5 @@ if __name__ == '__main__':
     
 def check():
     print('The issues were resolved ...')
+    
+print('Done ...')
